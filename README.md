@@ -11,7 +11,7 @@ Created By : Ali
 - DiscordWebhook
 
 
-![program pic](https://github.com/14d9/Get-IP-information/blob/master/img/Untitled-2.png)
+![program pic](https://github.com/14d9/Get-IP-information/blob/master/img/Get-IP-information.png)
 
 
        
