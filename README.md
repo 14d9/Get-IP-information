@@ -17,7 +17,7 @@ Created By : Ali
        
 
  ## Download
- > Download : [ClickHere](https://github.com/14d9/Get-IP-information/archive/refs/heads/master.zip) (Get-IP-information.zip)
+ > Download : [ClickHere](https://github.com/14d9/Get-IP-information/archive/refs/heads/master.zip) (Get-IP-information-master.zip)
 
      
 
