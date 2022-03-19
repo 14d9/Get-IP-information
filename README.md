@@ -8,10 +8,9 @@ Created By : Ali
 - requests
 - time
 - webbrowser
-- DiscordWebhook
 
 
-![program pic](https://github.com/14d9/Get-IP-information/blob/master/img/Get-IP-information.png)
+![program pic](https://github.com/14d9/Get-IP-information/blob/master/img/Get-FiveM-Server-information(Ali).png)
 
 
        
