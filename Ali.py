@@ -1,6 +1,4 @@
-import requests
-import time
-import webbrowser
+import requests, webbrowser, time
 
 print("""
      _____    __    _______    _      ___                    __  _         
@@ -13,7 +11,7 @@ print("""
 ip = input( """[+] THE IP ADDRESS : """)
 
 req = requests.get("http://ipwhois.app/json/"+ip)
-instagram = 'https://www.instagram.com/14d9/'
+instagram = 'https://www.instagram.com/q97l/'
 
 print("")
 print("")
